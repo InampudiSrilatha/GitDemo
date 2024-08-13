@@ -30,6 +30,11 @@ public class DataReader {
 	  return data;
 	
 	//{map, map}
+	  
+	  public void sample data()
+	  {
+		  System.out.println("hello");
+	  }
 	
 	
 	
