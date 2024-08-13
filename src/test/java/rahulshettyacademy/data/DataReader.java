@@ -31,11 +31,12 @@ public class DataReader {
 	
 	//{map, map}
 	  
-	  public void sample data()
-	  {
-		  System.out.println("hello");
-	  }
+	 
 	
+	  public void sampledata1()
+	  {
+		  System.out.println("world");
+	  }
 	
 	
 	
